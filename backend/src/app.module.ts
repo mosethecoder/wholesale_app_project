@@ -11,3 +11,6 @@ import { UserModule } from './user/user.module';
 export class AppModule {}
 
 console.log('object');
+console.log('object');
+console.log('object');
+console.log('object');
